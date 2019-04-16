@@ -2,7 +2,8 @@ import * as KinderGardens from "../gradini.json"
 
 import cheerio from 'cheerio';
 import * as fs from 'fs';
-const rp = require("request-promise");
+require('dotenv').config();
+import rp from "request-promise";
 
 class Main {
     constructor() { }
@@ -54,7 +55,7 @@ class Main {
                 console.log(address);
 
                 return rp.get({
-                    uri: `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=AIzaSyB7X8n0jsqYNlzSBFVkEtpj1QQCcvFuLWg`,
+                    uri: `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${process.env.MAPS_API_KEY}`,
                     json: true
                 })
                     .then(resp => {

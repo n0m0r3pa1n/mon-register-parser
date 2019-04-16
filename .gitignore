@@ -1,3 +1,4 @@
+.env
 node_modules/
 .node_modules/
 built/*
@@ -77,4 +78,3 @@ tests/baselines/reference/dt
 .failed-tests
 TEST-results.xml
 package-lock.json
-
