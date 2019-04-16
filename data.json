@@ -1,0 +1,1655 @@
+[
+    {
+        "schoolId": 2200003,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"УСМИВКА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1616",
+        "address": "ул. \"Кумата\" № 47",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6451741,
+                "lng": 23.2777637
+            },
+            "placeId": "ChIJiV5miZ2EqkAR6IIA3xzPIig"
+        }
+    },
+    {
+        "schoolId": 2200005,
+        "schoolName": "Частна детска градина \"Орфей\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1000",
+        "address": "ул. \"Суходолска\" № 2",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7017,
+                "lng": 23.28384
+            },
+            "placeId": "ChIJbQO0tbWaqkARA4Lw9g0_GmA"
+        }
+    },
+    {
+        "schoolId": 2200006,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МЕЧТИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1517",
+        "address": "район Подуяне, ж. к. \"Хаджи Димитър\", ул. \"Васил Петлешков\" № 78",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.707223,
+                "lng": 23.3473151
+            },
+            "placeId": "ChIJF2oArIGPqkARj_pmB9b5wZc"
+        }
+    },
+    {
+        "schoolId": 2200007,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ПО-ПО-НАЙ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1415",
+        "address": "район Витоша, ж. к. Драгалевци, ул. \"Крушова градина\" № 1",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6292628,
+                "lng": 23.3137907
+            },
+            "placeId": "ChIJH9Om7fKDqkARexII6xJtd0w"
+        }
+    },
+    {
+        "schoolId": 2200008,
+        "schoolName": "Частна детска градина \"Най-добрите деца\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1404",
+        "address": "район Триадица, ж.к. Гоце Делчев, ул. Славовица № 20",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.66572559999999,
+                "lng": 23.2965379
+            },
+            "placeId": "ChIJA2_n9u6EqkARFgd0Ztzb-BY"
+        }
+    },
+    {
+        "schoolId": 2200009,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"АЛБЕРТИНО\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1700",
+        "address": "район Студентски, ж. к. Студентски град, до Парк хотел Витоша",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6567739,
+                "lng": 23.3529841
+            },
+            "placeId": "ChIJTTXHfy-EqkARfqKv3OiLaaQ"
+        }
+    },
+    {
+        "schoolId": 2200010,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ТАТКОВА ГРАДИНА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1797",
+        "address": "район Панчарево, ж. к. Малинова Долина, ул. \"Първа\" № 24",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6378355,
+                "lng": 23.3381501
+            },
+            "placeId": "ChIJF0bZcASEqkARIRvT4S6_LgY"
+        }
+    },
+    {
+        "schoolId": 2200016,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"СЛЪНЧЕВ АНГЕЛ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1434",
+        "address": "район Витоша, ж. к. Симеоново, ул. \"Шумако\" № 29 (нов № 47)",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.622612,
+                "lng": 23.3403981
+            },
+            "placeId": "Ej00NywgdWwuICJTaHVtYWtvIiAyOSwgMTQzNCBTaW1lb25vdm8gLSBTZXZlciwgU29maWEsIEJ1bGdhcmlhIh4aHAoWChQKEgltwGVRV4GqQBH9DYUPPo8ZDhICNDc"
+        }
+    },
+    {
+        "schoolId": 2200019,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЩАСТЛИВО ДЕТСТВО\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "район Витоша, кв. Драгалевци, бул. \"Черни връх\" № 189д",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6370116,
+                "lng": 23.3110541
+            },
+            "placeId": "ChIJ-VfEHYqDqkARlS2X0vJk-hE"
+        }
+    },
+    {
+        "schoolId": 2200020,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ДЕТСКАТА\" ",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1797",
+        "address": "общ. Витоша, в.з. Малинова Долина 2а част - разширение, ул. \"Арх. Коста Николов\" (бивша ул. 198) № 21",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6171256,
+                "lng": 23.3558754
+            },
+            "placeId": "EjZ1bC4gIjE5OC1tYSIgMjEsIDE3NTYgTWFsaW5vdmEgZG9saW5hLCBTb2ZpYSwgQnVsZ2FyaWEiGhIYChQKEgm7ZJIOR4GqQBEJ1TdSsz4mWBAV"
+        }
+    },
+    {
+        "schoolId": 2201079,
+        "schoolName": "Частна детска градина \"Вълшебното борче\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1750",
+        "address": "ж. к. Полигона, бл. 40, партер",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6634226,
+                "lng": 23.3830687
+            },
+            "placeId": "ChIJu7iYs3yGqkAR8YwT6BDdXG8"
+        }
+    },
+    {
+        "schoolId": 2201080,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА МОМО",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1202",
+        "address": "Район Възраждане, ул. \"Поп Богомил\" № 47",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7036983,
+                "lng": 23.3230604
+            },
+            "placeId": "ChIJ8-Co5maFqkARwyiRIIpUCro"
+        }
+    },
+    {
+        "schoolId": 2201082,
+        "schoolName": "Частна детска градина \"Бръмбазък\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1527",
+        "address": "район Оборище, ул. \"Бачо Киро\" № 66",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7033506,
+                "lng": 23.3262574
+            },
+            "placeId": "ChIJzapKH2SFqkARaobECf97pak"
+        }
+    },
+    {
+        "schoolId": 2201083,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЙОР КИДС\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1000",
+        "address": "ж. к. \"Фондови жилища\", бл. 216",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7137377,
+                "lng": 23.3020121
+            },
+            "placeId": "ChIJw4HWfFWFqkARTeJpfDL0n24"
+        }
+    },
+    {
+        "schoolId": 2202352,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА  \"МАРГАРИТКА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ж. к. Манастирски ливади, ул. \"Ген. Стефан Тошев\" № 96",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6614166,
+                "lng": 23.2743989
+            },
+            "placeId": "ChIJ8yg1JbmEqkARxIo0s9uN4AY"
+        }
+    },
+    {
+        "schoolId": 2202615,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МАЛКИ СТЪПКИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1434",
+        "address": "ж. к. Симеоново, ул. \"Спиридон Казанджиев\" № 16",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6258638,
+                "lng": 23.3328561
+            },
+            "placeId": "ElfQti4g0LosIHVsLiAiQWthZGVtaWsgU3Bpcmlkb24gS2F6YW5kemhpZXYiIDE2LCAxNDM0IFNpbWVvbm92byAtIFNldmVyLCBTb2ZpYSwgQnVsZ2FyaWEiIhogChYKFAoSCSV8LPz8g6pAEWWX4iyuO0ndEgbQti4g0Lo"
+        }
+    },
+    {
+        "schoolId": 2202617,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЦВЕТЕН ДЕН\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "ул. \"Витошка поляна\" № 10",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6691019,
+                "lng": 23.2564639
+            },
+            "placeId": "ChIJ07h_mTWbqkAR2wu4QC-AxvA"
+        }
+    },
+    {
+        "schoolId": 2202619,
+        "schoolName": "Частна детска градина \"Мила\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, кв. \"Манастирски ливади - запад\", ул. \"Майстор Павел от Кримин\" № 3",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.65944959999999,
+                "lng": 23.2744877
+            },
+            "placeId": "ChIJ8apFIryEqkARdo2-xWKkZCQ"
+        }
+    },
+    {
+        "schoolId": 2202656,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ВЕСЕЛОТО ГАРДЖЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1766",
+        "address": "район Витоша, ж. к. София парк, Търговска зона, бл. 16 - 3",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6198864,
+                "lng": 23.3688784
+            },
+            "placeId": "ChIJQ30QAc2GqkARvYybsx-ShLs"
+        }
+    },
+    {
+        "schoolId": 2202670,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЛИДИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1616",
+        "address": "район Витоша, кв. Бояна ул. \"Розариум\" № 8",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.64258239999999,
+                "lng": 23.2796579
+            },
+            "placeId": "ChIJIVfa0GKDqkAR-yhnBP8ibeY"
+        }
+    },
+    {
+        "schoolId": 2202675,
+        "schoolName": "Частна детска градина \"Българанче\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ул. \"Прохлада\" № 10",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6608575,
+                "lng": 23.261941
+            },
+            "placeId": "ChIJsynObrGEqkAR7_NtsfOYxqU"
+        }
+    },
+    {
+        "schoolId": 2202687,
+        "schoolName": "Частна детска градина \"Екомалчовци\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1619",
+        "address": "район Витоша, кв. Княжево, ул. \"Княжевска\" № 63",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.669749,
+                "lng": 23.2443345
+            },
+            "placeId": "ChIJ9xwCmUebqkARTK2bnhpr_d0"
+        }
+    },
+    {
+        "schoolId": 2202689,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ВЕСЕЛИТЕ КАМБАНКИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1700",
+        "address": "район Лозенец, кв. Витоша, ул. \"Данаил Крапчев\" № 17",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6503516,
+                "lng": 23.3324508
+            },
+            "placeId": "ChIJK4uNDhWEqkARraNWPymE7Z4"
+        }
+    },
+    {
+        "schoolId": 2202690,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"КИТА 2013\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "район Витоша, ж. к. Драгалевци, ул. \"Кимчовец\" № 23",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6297906,
+                "lng": 23.3201983
+            },
+            "placeId": "ChIJk-Xwa_GDqkAREZYWY-wbxUg"
+        }
+    },
+    {
+        "schoolId": 2202693,
+        "schoolName": "Частна детска градина \"Детски свят\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ул. \"Казбек\" № 55, партер",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6661339,
+                "lng": 23.2812303
+            },
+            "placeId": "ChIJv3wfPsGEqkARhmRcLiQT8ds"
+        }
+    },
+    {
+        "schoolId": 2202694,
+        "schoolName": "Частна детска градина \"Откривател\" ",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "София, кв. Драгалевци, ул. Папрат 14",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.629562,
+                "lng": 23.3126537
+            },
+            "placeId": "ChIJMQP1xvKDqkAR3KQp9YqjzLU"
+        }
+    },
+    {
+        "schoolId": 2202698,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"РОСИЦА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1619",
+        "address": "кв. Бояна, ул. \"Букара\" № 15",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6566658,
+                "lng": 23.2495174
+            },
+            "placeId": "ChIJox4SSVObqkARIXP_d2RMAS0"
+        }
+    },
+    {
+        "schoolId": 2202706,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЛАПИНУ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "ж. к. Драгалевци, ул. \"Ваклинец\" № 42",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.62228,
+                "lng": 23.31775
+            },
+            "placeId": "ChIJw0uhteiDqkAR8alvoUhkUDI"
+        }
+    },
+    {
+        "schoolId": 2202745,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ГЕРМАНИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1756",
+        "address": "район Витоша, в. з. Малинова долина, ул. \"16\" № 2Б ",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.61299349999999,
+                "lng": 23.3655692
+            },
+            "placeId": "Ejh1bC4gIjE2LXRhIiAyLCAxNzU2IE1hbGlub3ZhIGRvbGluYSwgQmlzdHJpdHNhLCBCdWxnYXJpYSIaEhgKFAoSCYOPXW07gapAEdyqGsgpuo2bEAI"
+        }
+    },
+    {
+        "schoolId": 2202747,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МОНТЕСОРИ КЪЩА НА ДЕЦАТА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ул. \"Българска легия\" № 17",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.659703,
+                "lng": 23.2775416
+            },
+            "placeId": "ChIJX7GOYr6EqkARojPKrHPvCNI"
+        }
+    },
+    {
+        "schoolId": 2202748,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЕЖКО БЕЖКО\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "район Витоша, ж. к. Драгалевци, ул. \"Проф. Александър Райчев\" № 8",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.638213,
+                "lng": 23.3068954
+            },
+            "placeId": "ChIJX8suPYiDqkAR_Gq5QXtsRU8"
+        }
+    },
+    {
+        "schoolId": 2202753,
+        "schoolName": "Частна детска градина \"Свети Георги\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1164",
+        "address": "бул. Никола Вапцаров 47",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6651097,
+                "lng": 23.322485
+            },
+            "placeId": "ChIJJUO43FCEqkAR_fFwIa9FzBM"
+        }
+    },
+    {
+        "schoolId": 2202756,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЗВЕЗДИЧКА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ул. \"Ветрушка\" № 5а",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6657509,
+                "lng": 23.264007
+            },
+            "placeId": "ChIJZf8_77WEqkARRHx49E521rM"
+        }
+    },
+    {
+        "schoolId": 2202758,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"РАЙ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1220",
+        "address": "район Надежда, ж. к. Надежда 2, ул. \"Кубадин\" № 5",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7292639,
+                "lng": 23.3008032
+            },
+            "placeId": "ChIJN98nkhmQqkART96Q-8ff4kI"
+        }
+    },
+    {
+        "schoolId": 2202759,
+        "schoolName": "Частна детска градина \"Дрита\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1408",
+        "address": "ж. к. Стрелбище, бул. \"България\", бл. 19",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6767285,
+                "lng": 23.2979823
+            },
+            "placeId": "ChIJoUJYR-CEqkARlRXEayVOeFw"
+        }
+    },
+    {
+        "schoolId": 2202765,
+        "schoolName": "Частна детска градина \"Сияние\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1619",
+        "address": "район Витоша, кв. Бояна, ул. \"Белите брези\" № 1",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6481421,
+                "lng": 23.2673502
+            },
+            "placeId": "ChIJoQVQiqCEqkARSKrBQC--bU4"
+        }
+    },
+    {
+        "schoolId": 2202767,
+        "schoolName": "Частна детска градина \"Елхица\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1434",
+        "address": "район Витоша, кв. Симеоново, ул. \"Мишова орница\" № 5",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.61324399999999,
+                "lng": 23.3324077
+            },
+            "placeId": "ChIJcRfpy2CBqkAR-tnu5nNvBHs"
+        }
+    },
+    {
+        "schoolId": 2202774,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"БОЯНА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1616",
+        "address": "район Витоша, ул. \"Александър Пушкин\" № 63",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6578001,
+                "lng": 23.2651128
+            },
+            "placeId": "ChIJ8TrACbCEqkARsMagYnorY_g"
+        }
+    },
+    {
+        "schoolId": 2202776,
+        "schoolName": "ЧАСТНА НЕМСКА ДЕТСКА ГРАДИНА \"УВЕКИНД\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1616",
+        "address": "кв. Бояна, общ. Витоша, ул. \"Деян Гьоров\" № 4",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.64674,
+                "lng": 23.2804153
+            },
+            "placeId": "ChIJZ2LNoV-DqkARlKVK1BzDyyw"
+        }
+    },
+    {
+        "schoolId": 2202779,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"НЕМО\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "район Витоша, ж. к. Драгалевци, ул. \"Маточина\" № 2а",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6286199,
+                "lng": 23.3110707
+            },
+            "placeId": "ChIJTTA5qvKDqkAR0xYrwMT6vv4"
+        }
+    },
+    {
+        "schoolId": 2202784,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЗЛАТНО ЗРЪНЦЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1421",
+        "address": "район Лозенец, ул. \"Червена стена\" № 34",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6726925,
+                "lng": 23.3179981
+            },
+            "placeId": "ChIJq05uxv-EqkAR_7YSpcYl2xo"
+        }
+    },
+    {
+        "schoolId": 2202835,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ПАЛАВИ КРАЧЕТА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1415",
+        "address": "район Витоша, ул. \"Боянска\" № 20",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6383004,
+                "lng": 23.2971333
+            },
+            "placeId": "ChIJt7PuKIGDqkARn67RJU8EgU0"
+        }
+    },
+    {
+        "schoolId": 2203707,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ПРИЯТЕЛСКА КЪЩА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "ул. \"Българска легия\" № 2",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6589304,
+                "lng": 23.2802205
+            },
+            "placeId": "ChIJ0wPAAr6EqkAR8NFJU9fxWx8"
+        }
+    },
+    {
+        "schoolId": 2203772,
+        "schoolName": "Частна детска градина \"Арлекино\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1387",
+        "address": "район Връбница, ж. к. \"Обеля\", ул. 18, №3",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7413482,
+                "lng": 23.2666212
+            },
+            "placeId": "ChIJG11H9l-QqkARXu87mYBSrQQ"
+        }
+    },
+    {
+        "schoolId": 2204785,
+        "schoolName": "Частна детска градина \"Ново поколение\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1784",
+        "address": "район Младост, ж. к. Младост 1, ул. \"Димитър Доспевски\" № 9",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6524106,
+                "lng": 23.3765537
+            },
+            "placeId": "ChIJux4RJo6GqkARaDnbkIlwJoo"
+        }
+    },
+    {
+        "schoolId": 2205695,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ХЕРМАН ХЕСЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1592",
+        "address": "район Искър, ж. к. Дружба-1, ул. \"Тирана\" № 63",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6648237,
+                "lng": 23.3936081
+            },
+            "placeId": "ChIJTZQYXWaGqkARE0B9k_KD1eM"
+        }
+    },
+    {
+        "schoolId": 2205771,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ДЕТСКА АКАДЕМИЯ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1797",
+        "address": "район Изгрев, бул. \"Цариградско шосе\" № 32",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6690775,
+                "lng": 23.3657711
+            },
+            "placeId": "ChIJpWUtSdGFqkARKa0HMPuMQY4"
+        }
+    },
+    {
+        "schoolId": 2209755,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"101 ЗАЩО\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Красно село, ул. 656 № 8",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6745607,
+                "lng": 23.2836993
+            },
+            "placeId": "ChIJIZ_9sduEqkARnWCgI9qWojE"
+        }
+    },
+    {
+        "schoolId": 2211354,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"Д-Р ПЕТЪР БЕРОН\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "кв. Лозенец, ул. \"Флора Кънева\" № 14",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6508624,
+                "lng": 23.31988
+            },
+            "placeId": "Ej51bC4g4oCeRmxvcmEgS2FuZXZh4oCcIDE0LCAxNDA3IEtyYXN0b3ZhIHZhZGEsIFNvZmlhLCBCdWxnYXJpYSIaEhgKFAoSCUlwpi9phKpAEdJNQP24KASfEA4"
+        }
+    },
+    {
+        "schoolId": 2211652,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА ТУТИ 2011",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1421",
+        "address": "район Лозенец, ул. \"Червена стена\" № 28",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6729395,
+                "lng": 23.3184163
+            },
+            "placeId": "ChIJo4tK2_-EqkARf5rDsfNu4HA"
+        }
+    },
+    {
+        "schoolId": 2211655,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ФЪНКИ МЪНКИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1345",
+        "address": "район Илинден, ул. \"Кукуш\" № 1",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.71731,
+                "lng": 23.29368
+            },
+            "placeId": "ChIJUSaGtQCQqkARR_QoO3ZxPyo"
+        }
+    },
+    {
+        "schoolId": 2211678,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ПАТЕТА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1618",
+        "address": "район Витоша, ж. к. Mанастирски ливади-запад, ул. \"Бяло поле\" № 9Б",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6593502,
+                "lng": 23.283263
+            },
+            "placeId": "ChIJL0xhupWEqkARjyUV1zSXw34"
+        }
+    },
+    {
+        "schoolId": 2211681,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"КАМЕЛИНИ МОНТЕСОРИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1619",
+        "address": "гр. София, ул. Студен кладенец № 8",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6592369,
+                "lng": 23.2506668
+            },
+            "placeId": "ChIJHV3evVKbqkAR6wxa1zVCJ-g"
+        }
+    },
+    {
+        "schoolId": 2211702,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"КРИСТОФЪР РОБИН\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1421",
+        "address": "район Лозенец, ул. \"Момин кладенец\" № 1, партер, офис 1",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6847774,
+                "lng": 23.3288247
+            },
+            "placeId": "Ej8xLCB1bC4gIk1vbWluIEtsYWRlbmV0cyIgMSwgMTE2NCBnLmsuIExvemVuZXRzLCBTb2ZpYSwgQnVsZ2FyaWEiHRobChYKFAoSCUGY2o0JhapAEWhFYMKvDnNZEgEx"
+        }
+    },
+    {
+        "schoolId": 2211752,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"АЛИСА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "бул. \"Христо Смирненски\" № 36",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6823773,
+                "lng": 23.3309838
+            },
+            "placeId": "ChIJe4nsoKeFqkARdOSwOKWug1E"
+        }
+    },
+    {
+        "schoolId": 2211761,
+        "schoolName": "Частна детска градина \"Жирафче\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1164",
+        "address": "район Лозенец, ул. \"Бабуна планина\" № 2а, ет. 2",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.67187,
+                "lng": 23.3306826
+            },
+            "placeId": "EkbQtdGCLiAyLCB1bC4gIkJhYnVuYSBQbGFuaW5hIiAy0JAsIDExNjQgZy5rLiBMb3plbmV0cywgU29maWEsIEJ1bGdhcmlhIiMaIQoWChQKEgkttwMhrYWqQBHg_X0uyFStPRIH0LXRgi4gMg"
+        }
+    },
+    {
+        "schoolId": 2211782,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"СЛЪНЧЕВО ЗАЙЧЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1799",
+        "address": "район Младост, ж. к. Младост 2, ул. \"Генерал Майор Васил Делов\" № 10",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6361333,
+                "lng": 23.367582
+            },
+            "placeId": "ChIJY8mm8rmGqkARl9ueNW0JmGg"
+        }
+    },
+    {
+        "schoolId": 2211789,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ГАЛИНА СЕРГЕЕВНА УЛАНОВА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1164",
+        "address": "район Лозенец, ул. \"Свети Наум\" № 36",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6777705,
+                "lng": 23.32773
+            },
+            "placeId": "ChIJL4odpamFqkARIjep4bbg_4g"
+        }
+    },
+    {
+        "schoolId": 2211790,
+        "schoolName": "Частна детска градина \"Щастливата къща\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1715",
+        "address": "район Младост, ж. к. Младост 4, бл. 460А, вх. 2, ет. 5, ап. 18",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6257724,
+                "lng": 23.3815815
+            },
+            "placeId": "ElrQltC40LvQuNGJ0LXQvSDQutC-0LzQv9C70LXQutGBINCc0LvQsNC00L7RgdGCIDQgNDYwLCAxNzE1IGcuay4gTWxhZG9zdCA0LCBTb2ZpYSwgQnVsZ2FyaWEiGxIZChQKEglhOgNQ0oaqQBEL7QTOsP9nzRDMAw"
+        }
+    },
+    {
+        "schoolId": 2212653,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЗАМЪКЪТ НА ГРИФИН\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1111",
+        "address": "район Слатина, ж. к. Гео Милев, ул. \"Едисон\", бл. 47-47Б",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.685404,
+                "lng": 23.3634515
+            },
+            "placeId": "ChIJedb7p-uFqkARNNVDTAmzQwY"
+        }
+    },
+    {
+        "schoolId": 2212754,
+        "schoolName": "Частна детска градина \"Ерих Кестнер\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1336",
+        "address": "ж. к. Люлин 6 м. р., ул. \"Полковник Никола Попов\", филиал на 47 ОДЗ",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7128324,
+                "lng": 23.2528317
+            },
+            "placeId": "ChIJ6UvsVo6aqkARHZTVKAB7WcI"
+        }
+    },
+    {
+        "schoolId": 2212775,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЧУДНАТА КЪЩИЧКА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1343",
+        "address": "район Люлин, ж. к. Люлин 2, ул. \"Александър Станишев\" № 37",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7292909,
+                "lng": 23.2475044
+            },
+            "placeId": "ChIJM8tNwYOQqkAReUf8eBWEhMQ"
+        }
+    },
+    {
+        "schoolId": 2212778,
+        "schoolName": "\"Частна целодневна детска градина\" ПРИКАЗКА БЕЗ КРАЙ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "заличено",
+        "postCode": "1324",
+        "address": "София,жк.Люлин 9,бл. 964",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.71697,
+                "lng": 23.26179
+            },
+            "placeId": "ChIJI2NiFJuaqkARa2y6hBPu0tQ"
+        }
+    },
+    {
+        "schoolId": 2213625,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ЕКО ДАРА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1756",
+        "address": "район Панчарево (в. з. Малинова Долина), ул. \"Любаш\" № 2",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6114041,
+                "lng": 23.3641803
+            },
+            "placeId": "ChIJg-dfkjyBqkAR_XqA81bZyF8"
+        }
+    },
+    {
+        "schoolId": 2213680,
+        "schoolName": "Частна детска градина \"Ян Бибиян\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "кв. Симеоново, ул. \"Ягода\" № 13",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6193816,
+                "lng": 23.3383197
+            },
+            "placeId": "ChIJazqT3luBqkARzQmS4UhQ5Bw"
+        }
+    },
+    {
+        "schoolId": 2213696,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"АНИКА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1715",
+        "address": "район Младост, ж. к. Младост 4, бл. 458, вх. 5, ет. 3, ап. 9",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6346604,
+                "lng": 23.3747298
+            },
+            "placeId": "EjbQstGFLiA1LCDQtdGCLiAzLCAxNzE1IGcuay4gTWxhZG9zdCA0LCBTb2ZpYSwgQnVsZ2FyaWEiLBoqChYKFAoSCRtUz8PHhqpAEfVzYrHJVzYtEhDQstGFLiA1LCDQtdGCLiAz"
+        }
+    },
+    {
+        "schoolId": 2213699,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ДЕТСКИ ОАЗИС\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1784",
+        "address": "ул. Димитър Доспевски №9",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6524106,
+                "lng": 23.3765537
+            },
+            "placeId": "ChIJux4RJo6GqkARaDnbkIlwJoo"
+        }
+    },
+    {
+        "schoolId": 2213771,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ДЖАНИ РОДАРИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1574",
+        "address": "ж. к. Слатина, ул. \"Гео Милев\" № 158, ВТУ \"Т. Каблешков\", корпус 6",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6795658,
+                "lng": 23.3786072
+            },
+            "placeId": "ChIJwa0Um-CFqkARG7lTK-4uH-A"
+        }
+    },
+    {
+        "schoolId": 2213783,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МЕРИДИАН 22\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1799",
+        "address": "район Младост, ж. к. Младост 2, до бл. 227",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.64415390000001,
+                "lng": 23.3716894
+            },
+            "placeId": "ChIJicE2RZaGqkARcb_PuivfkuQ"
+        }
+    },
+    {
+        "schoolId": 2214679,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"СИМБА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1220",
+        "address": "район Надежда, ул. \"Илиенско шосе\" № 16",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7353008,
+                "lng": 23.3172734
+            },
+            "placeId": "ChIJASKKWyeQqkARJpvmHSr0jUQ"
+        }
+    },
+    {
+        "schoolId": 2216353,
+        "schoolName": "Частна детска градина \"Арти\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1504",
+        "address": "район Оборище, ул. \"Оборище\" № 5",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.69554249999999,
+                "lng": 23.336226
+            },
+            "placeId": "ChIJTQfrA3eFqkARBsTZjYZut-M"
+        }
+    },
+    {
+        "schoolId": 2216650,
+        "schoolName": "Частна детска градина \"Славейче\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "район Оборище, ул. \"Росица\" № 12",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.70026,
+                "lng": 23.3334499
+            },
+            "placeId": "ChIJW4Gk-HqFqkARIPgoS4wbxZs"
+        }
+    },
+    {
+        "schoolId": 2216760,
+        "schoolName": "Частна детска градина \"Къщата на Алиса и приятели\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1504",
+        "address": "район Оборище, ул. \"Асен Златаров\" № 18",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6945698,
+                "lng": 23.3439968
+            },
+            "placeId": "ChIJO9C46JyFqkAR11P3nT1C_wY"
+        }
+    },
+    {
+        "schoolId": 2217618,
+        "schoolName": "Частна детска градина \"Светлина\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1700",
+        "address": "район Студентски, ул. \"Йозеф Валдхард\" № 3",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6443829,
+                "lng": 23.3455896
+            },
+            "placeId": "ChIJM8DovB-EqkARJYsxXoccd0Y"
+        }
+    },
+    {
+        "schoolId": 2217654,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МОНТЕСОРИ ХАЙ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1614",
+        "address": "район Овча купел, ж. к. Горна баня, ул. \"Синьо езеро\" № 9а",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6793294,
+                "lng": 23.2372588
+            },
+            "placeId": "Ej7Qti4g0LosIHVsLiAiU2lueW8gZXplcm8iIDksIDE2MTQgR29ybmEgQmFueWEsIFNvZmlhLCBCdWxnYXJpYSIiGiAKFgoUChIJx9lqAhebqkARq_b-mr1oUkMSBtC2LiDQug"
+        }
+    },
+    {
+        "schoolId": 2217766,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МОНТЕСОРИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1614",
+        "address": "район Овча купел, ж. к. Горна баня, ул. \"Вечерница\" № 21",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6751783,
+                "lng": 23.232507
+            },
+            "placeId": "Ej_Qti4g0LosIHVsLiAiVmVjaGVybml0c2EiIDIxLCAxNjE0IEdvcm5hIEJhbnlhLCBTb2ZpYSwgQnVsZ2FyaWEiIhogChYKFAoSCb311vIUm6pAEaT_aTO8jcYGEgbQti4g0Lo"
+        }
+    },
+    {
+        "schoolId": 2218674,
+        "schoolName": "Частна детска градина  \"Вълшебен свят\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "заличено",
+        "postCode": "1137",
+        "address": "ул. Златна ябълка 1",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6151477,
+                "lng": 23.3907968
+            },
+            "placeId": "ChIJu_x-tNaAqkARevsxyTKCjho"
+        }
+    },
+    {
+        "schoolId": 2218997,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"СЛЪНЧОГЛЕДИ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1137",
+        "address": "район Панчарево, местност Ширините № 1А",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.5936678,
+                "lng": 23.4102163
+            },
+            "placeId": "ChIJ6U4yz5SAqkAR0NNNStkXERw"
+        }
+    },
+    {
+        "schoolId": 2220651,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"УСПЕНИЕ НА ПРЕСВЕТА БОГОРОДИЦА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1225",
+        "address": "район Сердика, ул. \"Училищна\" № 8",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.7177494,
+                "lng": 23.3477444
+            },
+            "placeId": "ChIJ322oO5qPqkARPvpzA2TLIpQ"
+        }
+    },
+    {
+        "schoolId": 2220764,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ВЕДА\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1233",
+        "address": "район Сердика, ул. \"Марин Дочев Христов\" № 18",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.714712,
+                "lng": 23.301133
+            },
+            "placeId": "Ekt1bC4gIk1hcmluIERhY2hldiBIcmlzdG92IiAxOCwgMTIzMyBnLmsuIEZvbmRvdmkgemhpbGlzaHRhLCBTb2ZpYSwgQnVsZ2FyaWEiGhIYChQKEglH3QXx_4-qQBH4rKicB14MABAS"
+        }
+    },
+    {
+        "schoolId": 2221616,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ДОВЕРИЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1505",
+        "address": "ж. к. Редута, ул. \"Калиманци\" № 43",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6882828,
+                "lng": 23.3590391
+            },
+            "placeId": "ChIJoVAef5OFqkARjunOW75eRy0"
+        }
+    },
+    {
+        "schoolId": 2221691,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МЕЧО ПУХ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "район Оборище, ул. \"Стара планина\" № 16",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.69940649999999,
+                "lng": 23.3334118
+            },
+            "placeId": "ChIJk9moYHqFqkARi6JMuVoh1CA"
+        }
+    },
+    {
+        "schoolId": 2221697,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ГРОЗНОТО ПАТЕНЦЕ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо (не провежда учебен процес през текущата година)",
+        "postCode": "1574",
+        "address": "ж. к. Гео Милев, ул. \"Николай Коперник\" № 48",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6838466,
+                "lng": 23.3636811
+            },
+            "placeId": "ChIJ7xzOQOqFqkARCY4Tm1WAi6E"
+        }
+    },
+    {
+        "schoolId": 2223684,
+        "schoolName": "Частна детска градина \"Детска къща Монтесори\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1700",
+        "address": "Район Лозенец, ж. к. Витоша, ул. Яна Язова\" № 6",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6516757,
+                "lng": 23.3345298
+            },
+            "placeId": "ChIJm_2RKz6EqkARLkdsR-GNYhQ"
+        }
+    },
+    {
+        "schoolId": 2224676,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"МЕЧТАТЕЛ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1000",
+        "address": "район Триадица, ж. к. Южен парк, бл. 30",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6768006,
+                "lng": 23.3069943
+            },
+            "placeId": "ChIJw05xcR2FqkARcatzOXS19Gc"
+        }
+    },
+    {
+        "schoolId": 2224773,
+        "schoolName": "ЧАСТНА ДЕТСКА ГРАДИНА \"ПРОЛЕТ\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1404",
+        "address": "район Триадица, ул. \"Майор Павел Павлов\" № 6",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.658343,
+                "lng": 23.3001609
+            },
+            "placeId": "ChIJ85XqpoyEqkARYRjY57pKfeM"
+        }
+    },
+    {
+        "schoolId": 2224781,
+        "schoolName": "Частна детска градина \"Мария Магдалена\"",
+        "schoolType": "детска градина",
+        "place": "София",
+        "area": "София - град",
+        "ownership": "Частно",
+        "status": "действащо",
+        "postCode": "1404",
+        "address": "район Триадица, ул. \"Ген. Кирил Ботев\" № 26Е",
+        "municipality": "Столична",
+        "mapData": {
+            "location": {
+                "lat": 42.6665105,
+                "lng": 23.291271
+            },
+            "placeId": "ChIJLWfqLuaEqkARZPDDnpWKav8"
+        }
+    }
+]
